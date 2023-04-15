@@ -1,2 +1,2 @@
 # BinGraff
-Top-K Binary Diffing via Graph Edit Distance
+Binary Diffing via Top-K Graph Edit Distance
